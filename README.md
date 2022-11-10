@@ -6,4 +6,5 @@ i.    Python
 ii.   Flask
 iii.  Html
 iv.   CSS
-v.    sqlite
+v.    JavaScript
+vi.   sqlite
